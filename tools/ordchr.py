@@ -1,0 +1,2 @@
+str = '.'
+print(ord(str))
